@@ -1,0 +1,13 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+#ignore intellij directory
+.idea
+
+# Ignore Gradle build output directory
+build
+
+## ignore the out directory
+**/out
+
+/cloc.exe
