@@ -50,7 +50,6 @@ application {
 
 
 detekt {
-    toolVersion = "1.23.1"
     config.setFrom("$rootDir/config/detekt/config.yml")
     debug = false
     parallel = false
